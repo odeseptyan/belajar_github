@@ -1,8 +1,5 @@
 # hi! ini adalah tulisan pertama
 
-# ini lanjutannya
 
-
-# ini kode untuk CABANG_BARU
 
 #perubahan master
